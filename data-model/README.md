@@ -1,0 +1,1 @@
+# STAR Data Model specification
